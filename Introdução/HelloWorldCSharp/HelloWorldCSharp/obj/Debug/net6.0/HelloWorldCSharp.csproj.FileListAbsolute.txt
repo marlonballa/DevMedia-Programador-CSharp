@@ -1,0 +1,15 @@
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.AssemblyInfo.cs
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\net6.0\HelloWorldCSharp.exe
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\net6.0\HelloWorldCSharp.deps.json
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\net6.0\HelloWorldCSharp.runtimeconfig.json
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\net6.0\HelloWorldCSharp.dll
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\net6.0\HelloWorldCSharp.pdb
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.dll
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\refint\HelloWorldCSharp.dll
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.pdb
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\HelloWorldCSharp.genruntimeconfig.cache
+D:\Usuario\Desktop\C# - Marlon\DevMedia\Introdução\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\net6.0\ref\HelloWorldCSharp.dll
